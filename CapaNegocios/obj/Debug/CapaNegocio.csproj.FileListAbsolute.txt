@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\bin\Debug\CapaDato.dll
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\bin\Debug\CapaEntidad.dll
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\bin\Debug\CapaDato.pdb
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\bin\Debug\CapaEntidad.pdb
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\admin\source\repos\ExamenProg\CapaNegocios\obj\Debug\CapaNegocios.pdb

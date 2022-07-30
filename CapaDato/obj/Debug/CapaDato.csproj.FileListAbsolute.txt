@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\ExamenProg\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\admin\source\repos\ExamenProg\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\admin\source\repos\ExamenProg\CapaDato\bin\Debug\CapaEntidad.dll
+C:\Users\admin\source\repos\ExamenProg\CapaDato\bin\Debug\CapaEntidad.pdb
+C:\Users\admin\source\repos\ExamenProg\CapaDato\obj\Debug\CapaDato.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ExamenProg\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExamenProg\CapaDato\obj\Debug\CapaDato.csproj.CopyComplete
+C:\Users\admin\source\repos\ExamenProg\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\admin\source\repos\ExamenProg\CapaDato\obj\Debug\CapaDato.pdb
